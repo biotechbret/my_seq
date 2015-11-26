@@ -1,2 +1,3 @@
 # my_seq
-sequencing manipulation
+sequencing manipulation 
+practise 
